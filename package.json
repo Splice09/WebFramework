@@ -1,0 +1,15 @@
+{
+  "name": "WebFramework",
+  "version": "0.0.1",
+  "description": "Framework template for educational purposes.",
+  "main": "server.js",
+  "author": "Patrick Fleming",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "3.4.1",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    
+  }
+}
